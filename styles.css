@@ -1,0 +1,6 @@
+html{
+    background-color:#14C2CC;
+    background-image: 
+    radial-gradient(circle farthest-side at top left, transparent, #0D64FF), radial-gradient(ellipse farthest-corner at 0% 100%, transparent, #FF0000);
+    animation:bg-change 5s infinite;
+}
